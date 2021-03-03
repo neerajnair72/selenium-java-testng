@@ -14,8 +14,8 @@ import java.net.URL;
 
 public class magicLeap {
 
-    public String username = "vishnukdas";
-    public String accesskey = "40fkQ3JuRlYMzd4ff7uqkqXCTnwvvkEB7FWJz1sLS2qSqoEDal";
+    public String username = "neerajn";
+    public String accesskey = "RVxtO0XHRNG5VqR9pQumcJ5M9CIx6xu6QLFsGqHbrqkoz9N1GG";
     public RemoteWebDriver driver;
     public String gridURL = "@hub.lambdatest.com/wd/hub"; //"@eu-central-1-hub.lambdatest.com/wd/hub";
     String status;
